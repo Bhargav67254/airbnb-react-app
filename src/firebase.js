@@ -2,7 +2,7 @@ import firebase from "firebase";
 // replace it with your firebase api
 const firebaseConfig = {
   apiKey: "",
-  authDomain: "<your auth domain>",
+  authDomain: "",
   projectId: "",
   storageBucket: "",
   messagingSenderId: "",
